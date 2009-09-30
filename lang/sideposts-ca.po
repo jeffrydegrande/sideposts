@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DailyTube WordPress Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-21 23:01+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jordi Canals <alkivia@jcanals.net>\n"
+"Language-Team: Alkivia | http://alkivia.org <alkivia@jcanals.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: Catalan\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: \n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: \n"
+
+#: ../sideposts.php:55
+#: ../lib/class.plugin.php:485
+#: ../lib/class.plugin.php:522
+msgid "Warning:"
+msgstr "Atenció:"
+
+#: ../sideposts.php:56
+#, php-format
+msgid "The active plugin %s is not compatible with your PHP version."
+msgstr "L'extensió activa %s no és compatible amb la teva versió de PHP."
+
+#: ../sideposts.php:58
+#, php-format
+msgid "%s is required for this plugin."
+msgstr "Es requereix %s per executar aquesta extensió."
+
+#: ../lib/class.plugin.php:486
+#, php-format
+msgid "The active plugin %s is not compatible with your WordPress version."
+msgstr "L'extensió activa %s no és compatible amb la teva versió de WordPress."
+
+#: ../lib/class.plugin.php:488
+#, php-format
+msgid "WordPress %s is required to run this plugin."
+msgstr "Es requereix WordPress %s per executar aquesta extensió."
+
+#: ../lib/class.plugin.php:523
+msgid "Standard sidebar functions are not present."
+msgstr "Manquen algunes funciones de la barra lateral estàndar."
+
+#: ../lib/class.plugin.php:524
+#, php-format
+msgid "It is required to use the standard sidebar to run %s"
+msgstr "És imprescindible utilitzar la barra lateral estàndar per executar %s"
+
+#: ../lib/class.sideposts-widget.php:53
+msgid "A widget to move posts to the sidebar."
+msgstr "Un widget que desplaça entrades a la barra lateral."
+
+#: ../lib/class.sideposts-widget.php:69
+msgid "Category not selected."
+msgstr "No s'ha indicat categoria."
+
+#: ../lib/class.sideposts-widget.php:120
+msgid "Read more &raquo;"
+msgstr "Llegir-ne més &raquo;"
+
+#: ../lib/class.sideposts-widget.php:134
+msgid "No Comments"
+msgstr "No hi ha comentaris"
+
+#: ../lib/class.sideposts-widget.php:135
+msgid "1 Comment"
+msgstr "1 comentari"
+
+#: ../lib/class.sideposts-widget.php:136
+msgid "% Comments"
+msgstr "% comentaris"
+
+#: ../lib/class.sideposts-widget.php:138
+msgid "Comments closed"
+msgstr "No es pot comentar"
+
+#: ../lib/class.sideposts-widget.php:154
+msgid "Archive for"
+msgstr "Arxiu de"
+
+#: ../lib/class.sideposts-widget.php:182
+msgid "Title:"
+msgstr "Títol:"
+
+#: ../lib/class.sideposts-widget.php:183
+msgid "Category:"
+msgstr "Categoria:"
+
+#: ../lib/class.sideposts-widget.php:185
+msgid "-- PRIVATE POSTS --"
+msgstr "-- ARTICLES PRIVATS --"
+
+#: ../lib/class.sideposts-widget.php:197
+msgid "Number of posts:"
+msgstr "Nombre d'entrades:"
+
+#: ../lib/class.sideposts-widget.php:199
+#, php-format
+msgid "(At most %d)"
+msgstr "(Màxim %d)"
+
+#: ../lib/class.sideposts-widget.php:202
+msgid "Show:"
+msgstr "Mostrar:"
+
+#: ../lib/class.sideposts-widget.php:203
+msgid "Full Post"
+msgstr "Entrada completa"
+
+#: ../lib/class.sideposts-widget.php:204
+msgid "Post Excerpt"
+msgstr "Només Estractes"
+
+#: ../lib/class.sideposts-widget.php:205
+msgid "Excerpts with thumbnails"
+msgstr "Estractes amb miniatures"
+
+#: ../lib/class.sideposts-widget.php:206
+msgid "Photo Blog"
+msgstr "Foto Bloc"
+
+#: ../lib/class.sideposts-widget.php:207
+msgid "Only Post Title"
+msgstr "Només títol de l'article"
+
+#: ../lib/class.sideposts-widget.php:211
+msgid "Show category on all feeds"
+msgstr "Mostrar a tots els fils RSS"
+
+#: ../lib/class.sideposts-widget.php:213
+msgid "Thumbnail width:"
+msgstr "Amplada miniatura:"
+
+#: ../lib/class.sideposts-widget.php:215
+msgid "pixels"
+msgstr "píxels"
+
+#: ../lib/class.sideposts-widget.php:218
+msgid "Align thumbnail to right"
+msgstr "Alinear miniatura a la dreta"
+
+#~ msgid "Read full post &raquo;"
+#~ msgstr "Llegir article complet &raquo;"
+#~ msgid "No posts found"
+#~ msgstr "No hi ha entrades."
+#~ msgid "Incompatible System"
+#~ msgstr "Sistema Incompatible"
+#~ msgid "Read More..."
+#~ msgstr "Llegir més..."
+#~ msgid "DailyTube Plugin Settings"
+#~ msgstr "Configuració de l'extensió DailyTube"
+#~ msgid ""
+#~ "DailyTube plugin has been updated. Please, check your plugin settings."
+#~ msgstr ""
+#~ "L'extensió DailyTube s'ha actualitzat. Si et plau, revisa'n la "
+#~ "configuració."
+#~ msgid ""
+#~ "CAUTION: You updated from a version prior to 1.0. For this reason your "
+#~ "settings have been reverted to defaults."
+#~ msgstr ""
+#~ "ATENCIÓ: Has actualitzat des d'una versió anterior a 1.0. Per aquest "
+#~ "motiu la configuració s'ha revertit als paràmetres per defecte."
+#~ msgid "DailyTube Settings"
+#~ msgstr "Configuració DailyTube"
+#~ msgid "<strong>Note:</strong> All sizes must be entered as Width x Height"
+#~ msgstr "<strong>Nota:</strong> Totes les mides són Amplada x Alçada"
+#~ msgid "Content tag:"
+#~ msgstr "Marcador de contingut:"
+#~ msgid "Video Size:"
+#~ msgstr "Mida del vídeo:"
+#~ msgid "Show Related Videos?"
+#~ msgstr "Mostrar vídeos relacionats?"
+#~ msgid "Yes"
+#~ msgstr "Sí"
+#~ msgid "No"
+#~ msgstr "No"
+#~ msgid "Player Color:"
+#~ msgstr "Color del reproductor:"
+#~ msgid "Show Border?"
+#~ msgstr "Mostrar marc?"
+#~ msgid "Enhanced Genie Menu?"
+#~ msgstr "Usar menú \"Genie\"?"
+#~ msgid "Wide format tag:"
+#~ msgstr "Marcador de vídeo panoràmic:"
+#~ msgid "Square format tag:"
+#~ msgstr "Marcador de vídeo quadrat:"
+#~ msgid "Wide Video Size"
+#~ msgstr "Mida  de vídeo  panoràmic"
+#~ msgid "Square Video Size"
+#~ msgstr "Mida del vídeo quadrat"
+#~ msgid "Allow FullScreen?"
+#~ msgstr "Permetre pantalla completa?"
+#~ msgid "Global Settings"
+#~ msgstr "Paràmetres generals"
+#~ msgid "Video Align:"
+#~ msgstr "Alineació del vídeo:"
+#~ msgid "None"
+#~ msgstr "Cap"
+#~ msgid "Left"
+#~ msgstr "Esquerra"
+#~ msgid "Center"
+#~ msgstr "Centre"
+#~ msgid "Right"
+#~ msgstr "Dreta"
+#~ msgid "Save Changes"
+#~ msgstr "Desar Canvis"
+#~ msgid "YouTube & Google Video Size"
+#~ msgstr "Mida dels vídeos YouTube i Google"
+#~ msgid "or"
+#~ msgstr "o"
+

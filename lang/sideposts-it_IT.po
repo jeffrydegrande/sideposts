@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SidePosts WordPress Widget in italiano\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-05-12 14:32+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Gianni Diurno (aka gidibao) <gidibao@gmail.com>\n"
+"Language-Team: Gianni Diurno | http://gidibao.net/ <gidibao@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: \n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SearchPath-0: \n"
+
+#: ../sideposts.php:49
+#: ../framework/plugins.php:467
+#: ../framework/plugins.php:509
+msgid "Warning:"
+msgstr "Avvertimento:"
+
+#: ../sideposts.php:50
+#, php-format
+msgid "The active plugin %s is not compatible with your PHP version."
+msgstr "Il plugin attivo %s non é compatibile con la tua versione PHP."
+
+#: ../sideposts.php:52
+#, php-format
+msgid "%s is required for this plugin."
+msgstr "%s necessario per questo plugin."
+
+#: ../widgets.php:72
+msgid "A widget to move posts to the sidebar."
+msgstr "Un widget per poter spostare gli articoli nella barra laterale."
+
+#: ../widgets.php:127
+msgid "Category not selected."
+msgstr "La categoria non é stata selezionata."
+
+#: ../widgets.php:158
+msgid "Read more &raquo;"
+msgstr "Prosegui la lettura &raquo;"
+
+#: ../widgets.php:162
+#: ../widgets.php:166
+msgid "Read full post &raquo;"
+msgstr "Leggi l'articolo completo &raquo;"
+
+#: ../widgets.php:174
+msgid "No posts found"
+msgstr "Non é stato trovato alcun articolo"
+
+#: ../widgets.php:184
+msgid "Archive for"
+msgstr "Archivo per"
+
+#: ../widgets.php:271
+msgid "Title:"
+msgstr "Titolo:"
+
+#: ../widgets.php:272
+msgid "Category:"
+msgstr "Categoria:"
+
+#: ../widgets.php:274
+msgid "-- PRIVATE POSTS --"
+msgstr "-- ARTICOLI PRIVATI --"
+
+#: ../widgets.php:286
+msgid "Number of posts:"
+msgstr "Numero di articoli:"
+
+#: ../widgets.php:288
+#, php-format
+msgid "(At most %d)"
+msgstr "(massimo %d)"
+
+#: ../widgets.php:291
+msgid "Show:"
+msgstr "Mostra:"
+
+#: ../widgets.php:292
+msgid "Full Post"
+msgstr "Articolo completo"
+
+#: ../widgets.php:293
+msgid "Post Excerpt"
+msgstr "Riassunto dell'articolo"
+
+#: ../widgets.php:294
+msgid "Excerpts with thumbnails"
+msgstr "Riassunti con miniatura"
+
+#: ../widgets.php:295
+msgid "Only Post Title"
+msgstr "Solo il titolo del post"
+
+#: ../widgets.php:298
+msgid "Thumbnail width:"
+msgstr "Larghezza miniatura"
+
+#: ../widgets.php:300
+msgid "pixels"
+msgstr "pixel"
+
+#: ../framework/plugins.php:468
+#, php-format
+msgid "The active plugin %s is not compatible with your WordPress version."
+msgstr "Il plugin attivo %s non é compatibile con la tua versione WordPress."
+
+#: ../framework/plugins.php:470
+#, php-format
+msgid "WordPress %s is required to run this plugin."
+msgstr "E' necessario WordPress %s affinché questo plugin possa funzionare."
+
+#: ../framework/plugins.php:510
+msgid "Standard sidebar functions are not present."
+msgstr "Non sono presenti le funzioni standard della sidebar."
+
+#: ../framework/plugins.php:511
+#, php-format
+msgid "It is required to use the standard sidebar to run %s"
+msgstr "E' necessario l'utilizzo della sidebar standard affinché funzioni %s"
+
+#~ msgid "Incompatible System"
+#~ msgstr "Sistema incompatibile"
+#~ msgid "Read More..."
+#~ msgstr "Continua..."
+#~ msgid "DailyTube Plugin Settings"
+#~ msgstr "Configuración de DailyTube"
+#~ msgid ""
+#~ "DailyTube plugin has been updated. Please, check your plugin settings."
+#~ msgstr ""
+#~ "La extensión DailyTube ha sido actualizada. Por favor, revisa la "
+#~ "configuración de esta extensión."
+#~ msgid ""
+#~ "CAUTION: You updated from a version prior to 1.0. For this reason your "
+#~ "settings have been reverted to defaults."
+#~ msgstr ""
+#~ "ATENCION: Has actualizado desde una versión anterior a 1.0. Por este "
+#~ "motivo, las opciones se han revertido a valores por defecto."
+#~ msgid "DailyTube Settings"
+#~ msgstr "Configuración DailyTube"
+#~ msgid "<strong>Note:</strong> All sizes must be entered as Width x Height"
+#~ msgstr "<strong>Nota:</strong> Todos los tamaños son Ancho x Alto"
+#~ msgid "Content tag:"
+#~ msgstr "Etiqueta de contenido:"
+#~ msgid "Video Size:"
+#~ msgstr "Tamaño de vídeo:"
+#~ msgid "Show Related Videos?"
+#~ msgstr "¿Mostrar vídeos relacionados?"
+#~ msgid "Yes"
+#~ msgstr "Sí"
+#~ msgid "No"
+#~ msgstr "No"
+#~ msgid "Player Color:"
+#~ msgstr "Color del reproductor:"
+#~ msgid "Show Border?"
+#~ msgstr "¿Mostrar marco?"
+#~ msgid "Enhanced Genie Menu?"
+#~ msgstr "¿Utilizar menú \"Genie\"?"
+#~ msgid "Wide format tag:"
+#~ msgstr "Marcador formato panorámico:"
+#~ msgid "Square format tag:"
+#~ msgstr "Marcador de formato cuadrado:"
+#~ msgid "Wide Video Size"
+#~ msgstr "Tamaño de vídeo panorámico"
+#~ msgid "Square Video Size"
+#~ msgstr "Tamaño de vídeo cuadrado"
+#~ msgid "Allow FullScreen?"
+#~ msgstr "¿Permitir pantalla completa?"
+#~ msgid "Global Settings"
+#~ msgstr "Opciones Generales"
+#~ msgid "Video Align:"
+#~ msgstr "Alineación del vídeo:"
+#~ msgid "None"
+#~ msgstr "Ninguna"
+#~ msgid "Left"
+#~ msgstr "Izquierda"
+#~ msgid "Center"
+#~ msgstr "Centro"
+#~ msgid "Right"
+#~ msgstr "Derecha"
+#~ msgid "Save Changes"
+#~ msgstr "Guardar Cambios"
+#~ msgid "YouTube & Google Video Size"
+#~ msgstr "Tamaño de vídeo YouTube y Google"
+#~ msgid "or"
+#~ msgstr "o"
+

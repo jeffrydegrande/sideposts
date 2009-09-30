@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SidePosts Widget v1.4.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-22 00:20+0100\n"
+"PO-Revision-Date: 2009-05-01 14:30+0100\n"
+"Last-Translator: Jordi Canals <gpl@alkivia.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Poedit-Language: Polish\n"
+"X-Poedit-Country: POLAND\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;__ngettext_noop:1,2;_c\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ../class.sideposts.php:72
+msgid "A widget to move posts to the sidebar."
+msgstr "Widget przenoszący wpisy do paska bocznego."
+
+#: ../class.sideposts.php:136
+msgid "Category not selected."
+msgstr "Nie wybrano kategorii."
+
+#: ../class.sideposts.php:166
+msgid "Read more &raquo;"
+msgstr "Dalej &raquo;"
+
+#: ../class.sideposts.php:169
+msgid "Read full post &raquo;"
+msgstr "Przeczytaj cały wpis &raquo;"
+
+#: ../class.sideposts.php:175
+msgid "No posts found"
+msgstr "Brak wpisów"
+
+#: ../class.sideposts.php:185
+msgid "Archive for"
+msgstr "Archiwum"
+
+#: ../class.sideposts.php:277
+msgid "Title:"
+msgstr "Tytuł:"
+
+#: ../class.sideposts.php:278
+msgid "Category:"
+msgstr "Kategoria:"
+
+#: ../class.sideposts.php:280
+msgid "-- PRIVATE POSTS --"
+msgstr ""
+
+#: ../class.sideposts.php:292
+msgid "Number of posts:"
+msgstr "Liczba wpisów:"
+
+#: ../class.sideposts.php:294
+#, php-format
+msgid "(At most %d)"
+msgstr "(Co najwyżej %d)"
+
+#: ../class.sideposts.php:297
+msgid "Show:"
+msgstr "Pokaż:"
+
+#: ../class.sideposts.php:298
+msgid "Full Post"
+msgstr "Pełny wpis"
+
+#: ../class.sideposts.php:299
+msgid "Post Excerpt"
+msgstr "Nagłówek wpisu"
+
+#: ../class.sideposts.php:300
+msgid "Excerpts with thumbnails"
+msgstr ""
+
+#: ../class.sideposts.php:303
+msgid "Thumbnail width:"
+msgstr ""
+
+#: ../class.sideposts.php:305
+msgid "pixels"
+msgstr ""
+
+#: ../sideposts.php:53
+#: ../framework/class.plugin.php:322
+#: ../framework/class.plugin.php:363
+msgid "Warning:"
+msgstr ""
+
+#: ../sideposts.php:54
+#, php-format
+msgid "The active plugin %s is not compatible with your PHP version."
+msgstr ""
+
+#: ../sideposts.php:56
+#, php-format
+msgid "%s is required for this plugin."
+msgstr ""
+
+#: ../framework/class.plugin.php:323
+#, fuzzy, php-format
+msgid "The active plugin %s is not compatible with your WordPress version."
+msgstr "Plugin jest niekompatybilny z twoim systemem. Brakuje funkcji sidebar lub wersja WordPress jest niewłaściwa."
+
+#: ../framework/class.plugin.php:325
+#, php-format
+msgid "WordPress %s is required to run this plugin."
+msgstr ""
+
+#: ../framework/class.plugin.php:364
+msgid "Standard sidebar functions are not present."
+msgstr ""
+
+#: ../framework/class.plugin.php:365
+#, php-format
+msgid "It is required to use the standard sidebar to run %s"
+msgstr ""
+
+#~ msgid "Incompatible System"
+#~ msgstr "Niekompatybilny system"
+

@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SidePosts Widget v1.4.2\n"
+"PO-Revision-Date: 2009-03-30 22:58+0200\n"
+"Last-Translator: sourenaa <sourenaa@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Language: Farsi\n"
+"X-Poedit-Country: IRAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;__ngettext_noop:1,2;_c\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: ."
+
+#: class.sideposts.php:72
+msgid "A widget to move posts to the sidebar."
+msgstr "ابزارکی برای منتقل سازی بعضی از نوشته ها به ستون کناری."
+
+#: class.sideposts.php:277
+msgid "Title:"
+msgstr "عنوان:"
+
+#: class.sideposts.php:278
+msgid "Category:"
+msgstr "دسته:"
+
+#: class.sideposts.php:292
+msgid "Number of posts:"
+msgstr "تعداد نوشته ها:"
+
+#: class.sideposts.php:294
+#, php-format
+msgid "(At most %d)"
+msgstr "(حد اکثر %d تا)"
+
+#: class.sideposts.php:297
+msgid "Show:"
+msgstr "نشان دادن:"
+
+#: class.sideposts.php:298
+msgid "Full Post"
+msgstr "تمام نوشته"
+
+#: class.sideposts.php:299
+msgid "Post Excerpt"
+msgstr "خلاصه ی مطلب"
+
+#: class.sideposts.php:136
+msgid "Category not selected."
+msgstr "دسته بندی انتخاب نشده است."
+
+#: class.sideposts.php:166
+msgid "Read more &raquo;"
+msgstr "بیشتر بخوانید &raquo;"
+
+#: class.sideposts.php:169
+msgid "Read full post &raquo;"
+msgstr "نوشته ی کامل &raquo;"
+
+#: class.sideposts.php:175
+msgid "No posts found"
+msgstr "هیچ نوشته ای پیدا نشد"
+
+#: class.sideposts.php:185
+msgid "Archive for"
+msgstr "بایگانی"
+
+#: class.sideposts.php:300
+msgid "Excerpts with thumbnails"
+msgstr "خلاصه ی مطلب همراه با تصویر بندانگشتی "
+
+#: class.sideposts.php:280
+msgid "-- PRIVATE POSTS --"
+msgstr "-- نوشته های خصوصی --"
+
+#: class.sideposts.php:303
+msgid "Thumbnail width:"
+msgstr "عرض تصاویر بندانگشتی"
+
+#: class.sideposts.php:305
+msgid "pixels"
+msgstr "پیکسل"
+
+#: framework/class.plugin.php:365
+#: framework/class.plugin.php:406
+#: sideposts.php:53
+msgid "Warning:"
+msgstr "اخطار:"
+
+#: framework/class.plugin.php:366
+#, php-format
+msgid "The active plugin %s is not compatible with your WordPress version."
+msgstr "افزونه ی فعال  %s  با این وردپرس همخوانی ندارد."
+
+#: framework/class.plugin.php:368
+#, php-format
+msgid "WordPress %s is required to run this plugin."
+msgstr "وردپرس  %s  لازم است تا این افزونه کار کند."
+
+#: framework/class.plugin.php:407
+msgid "Standard sidebar functions are not present."
+msgstr "فانکشن (functions) های استاندارد ستون کناری در دسترس نیستند."
+
+#: framework/class.plugin.php:408
+#, php-format
+msgid "It is required to use the standard sidebar to run %s"
+msgstr "لازم است که ستون کناری از  %s استفاده کند"
+
+#: sideposts.php:54
+#, php-format
+msgid "The active plugin %s is not compatible with your PHP version."
+msgstr "افزونه ی فعال  %s  با این PHP همخوانی ندارد."
+
+#: sideposts.php:56
+#, php-format
+msgid "%s is required for this plugin."
+msgstr "برای استفاده از این افزونه %s لازم است."
+

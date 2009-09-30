@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SidePosts Widget 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-22 00:20+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jordi Canals <gpl@alkivia.com>\n"
+"Language-Team: Alkivia | http://alkivia.org <gpl@alkivia.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../class.sideposts.php:72
+msgid "A widget to move posts to the sidebar."
+msgstr "Ett tillägg för att flytta artiklar till sidopanelen."
+
+#: ../class.sideposts.php:136
+msgid "Category not selected."
+msgstr "Kategori ej vald"
+
+#: ../class.sideposts.php:166
+msgid "Read more &raquo;"
+msgstr "Läs mer &raquo;"
+
+#: ../class.sideposts.php:169
+msgid "Read full post &raquo;"
+msgstr "Läs hela artikeln &raquo;"
+
+#: ../class.sideposts.php:175
+msgid "No posts found"
+msgstr "Inga artiklar funna"
+
+#: ../class.sideposts.php:185
+msgid "Archive for"
+msgstr "Arkiv för"
+
+#: ../class.sideposts.php:277
+msgid "Title:"
+msgstr "Titel:"
+
+#: ../class.sideposts.php:278
+msgid "Category:"
+msgstr "Kategori:"
+
+#: ../class.sideposts.php:280
+msgid "-- PRIVATE POSTS --"
+msgstr ""
+
+#: ../class.sideposts.php:292
+msgid "Number of posts:"
+msgstr "Antal artiklar:"
+
+#: ../class.sideposts.php:294
+#, php-format
+msgid "(At most %d)"
+msgstr "(Som flest %d)"
+
+#: ../class.sideposts.php:297
+msgid "Show:"
+msgstr "Visa:"
+
+#: ../class.sideposts.php:298
+msgid "Full Post"
+msgstr "Hela artikeln"
+
+#: ../class.sideposts.php:299
+msgid "Post Excerpt"
+msgstr "Artikelutdrag"
+
+#: ../class.sideposts.php:300
+msgid "Excerpts with thumbnails"
+msgstr "Utdrag med miniatyrbild"
+
+#: ../class.sideposts.php:303
+msgid "Thumbnail width:"
+msgstr "Bredd på miniatyrbild:"
+
+#: ../class.sideposts.php:305
+msgid "pixels"
+msgstr "pixlar"
+
+#: ../sideposts.php:53
+#: ../framework/class.plugin.php:322
+#: ../framework/class.plugin.php:363
+msgid "Warning:"
+msgstr ""
+
+#: ../sideposts.php:54
+#, php-format
+msgid "The active plugin %s is not compatible with your PHP version."
+msgstr ""
+
+#: ../sideposts.php:56
+#, php-format
+msgid "%s is required for this plugin."
+msgstr ""
+
+#: ../framework/class.plugin.php:323
+#, fuzzy, php-format
+msgid "The active plugin %s is not compatible with your WordPress version."
+msgstr "Detta tillägg är inte kompatibelt med ditt system. Sidopanelsfunktioner saknas eller fel version av WordPress."
+
+#: ../framework/class.plugin.php:325
+#, php-format
+msgid "WordPress %s is required to run this plugin."
+msgstr ""
+
+#: ../framework/class.plugin.php:364
+msgid "Standard sidebar functions are not present."
+msgstr ""
+
+#: ../framework/class.plugin.php:365
+#, php-format
+msgid "It is required to use the standard sidebar to run %s"
+msgstr ""
+
+#~ msgid "Incompatible System"
+#~ msgstr "Inkompatibelt system"
+

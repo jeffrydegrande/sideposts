@@ -1,0 +1,69 @@
+@CHARSET "UTF-8";
+/* $Rev: 40 $
+
+	Use this Style Sheet to customize the plugin. 
+	You can delete the file, and write your custom styles on the theme' style.css file.
+	If you're usinf one of my themes, styling on the file custom.css is the preferred method.
+*/
+
+/* ------------------------------------------------ WIDGET SIDEPOSTS */
+#sidebar ul li.widget_sideposts ul li, #sidebar ul li.widget_sideposts ul a {
+	color: #fa6400;
+	font-size: 13px;
+	padding-top: 10px;
+	font-weight: bold;
+	}
+
+#sidebar span.sideposts_date {
+	color: #474747;
+	font-size: 10px;
+	font-weight: normal;
+	text-decoration: none;
+	}
+	
+#sidebar ul li.widget_sideposts ul li p {
+	color: #474747;
+	font-weight: normal;
+	text-decoration: none;
+	font-size: 11px;
+	}
+
+#sidebar ul li.widget_sideposts ul li p a {
+	color: #ff7e01;
+	line-height: normal;
+	font-weight: normal;
+	font-size: 11px;
+	padding-top: 0;
+	}
+
+#sidebar ul li.widget_sideposts ul li p a:hover {
+	text-decoration: underline;
+	}
+
+/* ------------------------------------------- SIDEPOSTS IMAGE ALIGN */
+#sidebar ul li.widget_sideposts ul li img.alignleft {
+	float: left;
+	margin: 5px;
+	padding: 2px;
+	border: 1px solid #ffde01;
+	clear: both;
+	}
+	
+#sidebar ul li.widget_sideposts ul li img.alignright {
+	float: right;
+	margin: 5px;
+	padding: 2px;
+	border: 1px solid #ffde01;
+	clear: both;
+}
+
+#sidebar ul li.widget_sideposts ul li img.aligncenter {
+	display: block;
+	border: 0px;
+	padding: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	clear: both;
+}
+
+/* EOF */
