@@ -114,8 +114,8 @@ final class SidepostsWidget extends WP_Widget {
 
 				if ( 'title' != $instance['show']) {
 					global $post;
-					$date_string = '<span class="sideposts_date">'. mysql2date(get_option('date_format'), $post->post_date) . ' | ' . get_the_time() .'</span>';
-					echo '<br />' . apply_filters($this->pid . '_date',  $date_string);
+					// $date_string = '<span class="sideposts_date">'. mysql2date(get_option('date_format'), $post->post_date) . ' | ' . get_the_time() .'</span>';
+					// echo '<br />' . apply_filters($this->pid . '_date',  $date_string);
 
 					switch ( $instance['show'] ) {
 						case 'posts' :
