@@ -160,13 +160,13 @@ final class SidepostsWidget extends WP_Widget {
             echo ' '. $instance['title'] .'</a> &raquo;</li>'; // get_the_category_by_ID($category)
           }
       }
+	    echo '</ul>';
 
       if ($show_read_more) {
 				echo '<a class="right read-more" href="'. get_permalink() .'">&raquo; Read More</a>';
         echo '<div class="clear"></div>';
       }
 
-	    echo '</ul>';
 		  echo $after_widget;
 
     	$SidePosts->restorePost(); // Revert to the previous post status.
